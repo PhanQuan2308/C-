@@ -1,0 +1,14 @@
+F:\FPT\C#\Slot8\bin\Debug\net8.0\Slot8.exe
+F:\FPT\C#\Slot8\bin\Debug\net8.0\Slot8.deps.json
+F:\FPT\C#\Slot8\bin\Debug\net8.0\Slot8.runtimeconfig.json
+F:\FPT\C#\Slot8\bin\Debug\net8.0\Slot8.dll
+F:\FPT\C#\Slot8\bin\Debug\net8.0\Slot8.pdb
+F:\FPT\C#\Slot8\obj\Debug\net8.0\Slot8.GeneratedMSBuildEditorConfig.editorconfig
+F:\FPT\C#\Slot8\obj\Debug\net8.0\Slot8.AssemblyInfoInputs.cache
+F:\FPT\C#\Slot8\obj\Debug\net8.0\Slot8.AssemblyInfo.cs
+F:\FPT\C#\Slot8\obj\Debug\net8.0\Slot8.csproj.CoreCompileInputs.cache
+F:\FPT\C#\Slot8\obj\Debug\net8.0\Slot8.dll
+F:\FPT\C#\Slot8\obj\Debug\net8.0\refint\Slot8.dll
+F:\FPT\C#\Slot8\obj\Debug\net8.0\Slot8.pdb
+F:\FPT\C#\Slot8\obj\Debug\net8.0\Slot8.genruntimeconfig.cache
+F:\FPT\C#\Slot8\obj\Debug\net8.0\ref\Slot8.dll
