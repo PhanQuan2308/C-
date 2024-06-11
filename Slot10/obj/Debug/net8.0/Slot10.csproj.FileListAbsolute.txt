@@ -1,0 +1,14 @@
+F:\FPT\C#\Slot10\bin\Debug\net8.0\Slot10.exe
+F:\FPT\C#\Slot10\bin\Debug\net8.0\Slot10.deps.json
+F:\FPT\C#\Slot10\bin\Debug\net8.0\Slot10.runtimeconfig.json
+F:\FPT\C#\Slot10\bin\Debug\net8.0\Slot10.dll
+F:\FPT\C#\Slot10\bin\Debug\net8.0\Slot10.pdb
+F:\FPT\C#\Slot10\obj\Debug\net8.0\Slot10.GeneratedMSBuildEditorConfig.editorconfig
+F:\FPT\C#\Slot10\obj\Debug\net8.0\Slot10.AssemblyInfoInputs.cache
+F:\FPT\C#\Slot10\obj\Debug\net8.0\Slot10.AssemblyInfo.cs
+F:\FPT\C#\Slot10\obj\Debug\net8.0\Slot10.csproj.CoreCompileInputs.cache
+F:\FPT\C#\Slot10\obj\Debug\net8.0\Slot10.dll
+F:\FPT\C#\Slot10\obj\Debug\net8.0\refint\Slot10.dll
+F:\FPT\C#\Slot10\obj\Debug\net8.0\Slot10.pdb
+F:\FPT\C#\Slot10\obj\Debug\net8.0\Slot10.genruntimeconfig.cache
+F:\FPT\C#\Slot10\obj\Debug\net8.0\ref\Slot10.dll
